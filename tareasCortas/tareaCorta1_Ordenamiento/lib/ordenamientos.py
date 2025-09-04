@@ -12,6 +12,7 @@ def insercion(array):
             swaps += 1
             j -= 1
         arrayAux[j + 1] = key
+        swaps += 1
     return swaps
 
 # Funcion por seleccion
