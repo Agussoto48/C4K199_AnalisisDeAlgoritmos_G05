@@ -1,4 +1,4 @@
-# C4K199 \_ Programación Paralela
+# C4K199 \_ Análisis de algoritmos
 
 ## Grupo 05
 
